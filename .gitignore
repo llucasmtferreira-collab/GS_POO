@@ -1,0 +1,10 @@
+# Arquivos compilados do Java
+*.class
+
+# Configuracoes do Eclipse
+.classpath
+.project
+.settings/
+
+# Pastas de compilacao
+bin/
